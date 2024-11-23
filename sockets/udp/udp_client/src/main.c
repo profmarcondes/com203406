@@ -72,7 +72,6 @@ int main(void) {
 							&slen);
 		if(recv_len == -1){
 			perror("Receive timeout!");
-			//die("Error receiving packet!");
 		} else {
 			printf("Reply: %s\n", (char *)buf);
 		}
