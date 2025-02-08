@@ -35,3 +35,16 @@ TODO: imagem blocos
   
 - [Comunicação entre PC e Arduino com Redes RS-485](https://youtu.be/uyfrKrxShYA?si=zaMK3tUCpzrfDGSa)
   
+
+# Sensores disponíveis
+
+- [Adafruit LUX Sensor TSL2561](https://www.adafruit.com/product/439)
+  - [Datasheet](https://cdn-shop.adafruit.com/datasheets/TSL2561.pdf)
+
+- [Sensor DHT22 de Temperatura e Umidade](https://blog.eletrogate.com/sensores-dht11-dht22/)
+  - [Datasheet](https://blog.eletrogate.com/wp-content/uploads/2019/01/Datasheet_DHT22_AM2302.pdf)
+
+- [Sensor De Pressão e Temperatura Bmp280](https://www.makerhero.com/produto/sensor-de-pressao-e-temperatura-bmp280/?srsltid=AfmBOooAlLwGaMoEEB7_qoy41gHYtgbcCmRcJYHLgr8G-2UcVebfYHOr)
+  - [Datasheet](https://makerhero.com/img/files/download/BMP280-Datasheet.pdf?_gl=1*gyg85t*_gcl_au*MTgzNDkyNjMyNy4xNzM4MzM2OTE5*_ga*NDUxNzU0OTg1LjE3MzgzMzY5MTk.*_ga_025J7BMBEC*MTczODk3MjcwNC4yLjEuMTczODk3MjcyOC4zNi4wLjA.)
+
+- [Mini sensor PIR](https://www.makerhero.com/produto/mini-sensor-de-movimento-presenca-pir/)
