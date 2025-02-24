@@ -13,6 +13,13 @@ TODO: imagem blocos
 
 [Artigo Embarcados - MODBUS](https://embarcados.com.br/protocolo-modbus/)
 
+## Software e Bibliotecas
+
+- [eModBus](https://emodbus.github.io/)
+
+- [Modbus Tools](https://github.com/serhmarch/ModbusTools)
+
+
 ## Vídeos
 
 - [Protocolo Modbus - Visão Geral](https://youtu.be/VAKjLpGTnlg?si=guDVsFOuhSy2Q_jH)
