@@ -19,6 +19,9 @@ TODO: imagem blocos
 
 - [Modbus Tools](https://github.com/serhmarch/ModbusTools)
 
+- [mbpoll](https://github.com/epsilonrt/mbpoll) 
+  - Ubuntu install -> `apt install mbpoll`
+
 
 ## Vídeos
 
