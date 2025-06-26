@@ -13,6 +13,13 @@ TODO: imagem blocos
 
 [Artigo Embarcados - MODBUS](https://embarcados.com.br/protocolo-modbus/)
 
+[Modbus RTU guide](https://www.wevolver.com/article/modbus-rtu-a-comprehensive-guide-to-understanding-and-implementing-the-protocol)
+
+[Modbus - Schneider](https://www.se.com/us/en/faqs/FA168406/)
+
+https://modbus.org/
+
+
 ## Software e Bibliotecas
 
 - [eModBus](https://emodbus.github.io/)
