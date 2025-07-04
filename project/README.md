@@ -9,15 +9,17 @@ Elaboração do projeto de uma rede industrial.
 
 TODO: imagem blocos
 
-# Informações MODBUS
+# Informações Modbus
 
-[Artigo Embarcados - MODBUS](https://embarcados.com.br/protocolo-modbus/)
+[Artigo Embarcados - Modbus](https://embarcados.com.br/protocolo-modbus/)
+
+[Modbus Protocol](https://www.fernhillsoftware.com/help/drivers/modbus/modbus-protocol.html)
 
 [Modbus RTU guide](https://www.wevolver.com/article/modbus-rtu-a-comprehensive-guide-to-understanding-and-implementing-the-protocol)
 
 [Modbus - Schneider](https://www.se.com/us/en/faqs/FA168406/)
 
-https://modbus.org/
+[Modbus.org](https://modbus.org/)
 
 
 ## Software e Bibliotecas
@@ -25,7 +27,7 @@ https://modbus.org/
 - [eModBus](https://emodbus.github.io/)
 
 - [Modbus Tools](https://github.com/serhmarch/ModbusTools)
-
+- 
 - [mbpoll](https://github.com/epsilonrt/mbpoll) 
   - Ubuntu install -> `apt install mbpoll`
 
